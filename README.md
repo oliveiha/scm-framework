@@ -29,7 +29,7 @@ git add
 git commit
 git push
 
-E, por último e não menos importarte, [o manual da ferramenta]: http://www.reddit.com!
+E, por último e não menos importarte, [o manual da ferramenta]:(http://www.reddit.com!)
 Tome este como seu guia de referência, ele é muito bem escrito (e ilustrado).
 
 OBS.: Para quem não é muito fã de terminal, futuramente poderá também utilizar um GUI GIT
