@@ -32,7 +32,7 @@ git push
 E, por último e não menos importarte, [o manual da ferramenta]:(https://git-scm.com/book/pt-br/v2)
 Tome este como seu guia de referência, ele é muito bem escrito (e ilustrado).
 
-OBS.: Para quem não é muito fã de terminal, futuramente poderá também utilizar um GUI GIT
+OBS.: Para quem não é muito fã de terminal, futuramente poderá também utilizar um [GUI GIT]:(https://git-scm.com/downloads/guis)
 
 
 
